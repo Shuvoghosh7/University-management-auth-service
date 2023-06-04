@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\.1e1ea1c889c6976cb1ef0f22295e5043d54f06a1-audit.json",
+    "files": [
+        {
+            "date": 1685779143225,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-03-06-13-success.log",
+            "hash": "16f54ddaa4183cd888d2004946a8fc01d5c7a9ff51ff2208a685f220afdde1bb"
+        },
+        {
+            "date": 1685779297425,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-03-06-14-success.log",
+            "hash": "e5c48fc5aa8e8c2825e64178b24b671eac90991fc1bf35faf0f6cf9412dab44d"
+        }
+    ],
+    "hashType": "sha256"
+}
