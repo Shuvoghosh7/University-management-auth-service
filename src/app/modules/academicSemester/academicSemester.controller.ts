@@ -1,24 +1,25 @@
 import { NextFunction, Request, Response } from 'express';
-import { RequestHandler } from 'express';
-import { UserService } from './user.service';
+import { AcademicSemesterService } from './academicSemester.service';
 import catchAsync from '../../../shared/catchAsync';
 import httpStatus from 'http-status';
 import sendReponse from '../../../shared/sendResponse';
-const createUser: RequestHandler = catchAsync(
+const createSemester = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
-    const { user } = req.body;
-    const result = await UserService.createUser(user);
+    const { ...academicSemesterData } = req.body;
+    const result = await AcademicSemesterService.createSemester(
+      academicSemesterData
+    );
 
     sendReponse(res, {
       statusCode: httpStatus.OK,
       success: true,
-      message: 'user created successfully!',
+      message: 'Aademic semester created successfully!',
       data: result,
     });
     next();
   }
 );
 
-export const UserController = {
-  createUser,
+export const AcademicSemesterController = {
+  createSemester,
 };
