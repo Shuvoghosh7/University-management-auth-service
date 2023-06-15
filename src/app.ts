@@ -1,8 +1,9 @@
-import express, { Application } from 'express';
+import express, { Application, NextFunction, Request, Response } from 'express';
 import cors from 'cors';
 
 import globalErrorHandler from './app/middlewares/globalErrorHandler';
 import routers from './app/routes';
+import httpStatus from 'http-status';
 
 // import { error } from 'winston'
 const app: Application = express();
@@ -25,4 +26,18 @@ app.get('/', async (req: Request, res: Response, next: NextFunction) => {
 
 //gobal error handelar
 app.use(globalErrorHandler);
+//handle not found
+app.use((req: Request, res: Response, next: NextFunction) => {
+  res.status(httpStatus.NOT_FOUND).json({
+    success: false,
+    message: 'Not Found',
+    errorMessages: [
+      {
+        path: req.originalUrl,
+        message: 'API Not Found',
+      },
+    ],
+  });
+  next();
+});
 export default app;
