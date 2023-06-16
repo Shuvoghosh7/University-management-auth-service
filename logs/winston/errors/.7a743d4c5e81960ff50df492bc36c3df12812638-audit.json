@@ -119,6 +119,11 @@
             "date": 1686856064657,
             "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\errors\\phu-2023-16-06-01-success.log",
             "hash": "b65e72634c09bb8694293a4dcc8d1b6b18717d5ea85bd59cd7286a091bf98d44"
+        },
+        {
+            "date": 1686924429600,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\errors\\phu-2023-16-06-20-success.log",
+            "hash": "181f70bcc54e1d9c15422713fecddab80ed53a12160f2688df6bb31dfb202b9e"
         }
     ],
     "hashType": "sha256"
