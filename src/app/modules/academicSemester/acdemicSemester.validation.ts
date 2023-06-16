@@ -38,7 +38,9 @@ const updateAcademicSemesterZodSchema = z
           required_error: 'Year is required ',
         })
         .optional(),
-      code: z.enum([...academicSemesterCodes] as [string, ...string[]]),
+      code: z
+        .enum([...academicSemesterCodes] as [string, ...string[]])
+        .optional(),
       startMonth: z
         .enum([...acdemicSemesterMonths] as [string, ...string[]], {
           required_error: 'Start month is needed',
@@ -59,6 +61,7 @@ const updateAcademicSemesterZodSchema = z
       message: 'Either both title and code should be provided or neither',
     }
   );
+
 export const AcademicSemesterValidation = {
   createAcademicSemesterZodSchema,
   updateAcademicSemesterZodSchema,

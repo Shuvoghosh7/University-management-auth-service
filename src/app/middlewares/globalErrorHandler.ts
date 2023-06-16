@@ -1,18 +1,26 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-console */
 /* eslint-disable no-unused-expressions */
-import { ErrorRequestHandler } from 'express';
+import { ErrorRequestHandler, NextFunction, Request, Response } from 'express';
 import config from '../../config';
-import { IGenericErrorMessage } from '../../interfaces/error';
-import handleValidationError from '../../errors/handleValidationError';
 import ApiError from '../../errors/ApiError';
-import { errorLogger } from '../../shared/logger';
-import { ZodError } from 'zod';
-import handleZodError from '../../errors/handleZodError';
-import handleCastError from '../../errors/handleCastError';
+import handleValidationError from '../../errors/handleValidationError';
 
-const globalErrorHandler: ErrorRequestHandler = (error, Request, res) => {
+import { ZodError } from 'zod';
+import handleCastError from '../../errors/handleCastError';
+import handleZodError from '../../errors/handleZodError';
+import { IGenericErrorMessage } from '../../interfaces/error';
+import { errorlogger } from '../../shared/logger';
+
+const globalErrorHandler: ErrorRequestHandler = (
+  error,
+  req: Request,
+  res: Response,
+  next: NextFunction
+) => {
   config.env === 'development'
-    ? console.log(`🐱‍🏍 globalErrorHandler ~~`, error)
-    : errorLogger.error(`🐱‍🏍 globalErrorHandler ~~`, error);
+    ? console.log(`🐱‍🏍 globalErrorHandler ~~`, { error })
+    : errorlogger.error(`🐱‍🏍 globalErrorHandler ~~`, error);
 
   let statusCode = 500;
   let message = 'Something went wrong !';
@@ -55,6 +63,7 @@ const globalErrorHandler: ErrorRequestHandler = (error, Request, res) => {
         ]
       : [];
   }
+
   res.status(statusCode).json({
     success: false,
     message,
@@ -62,4 +71,12 @@ const globalErrorHandler: ErrorRequestHandler = (error, Request, res) => {
     stack: config.env !== 'production' ? error?.stack : undefined,
   });
 };
+
 export default globalErrorHandler;
+
+//path:
+//message:
+
+// 2025 Fall
+
+// 2025 and
