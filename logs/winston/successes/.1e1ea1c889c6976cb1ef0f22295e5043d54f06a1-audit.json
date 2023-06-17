@@ -1,135 +1,135 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\.1e1ea1c889c6976cb1ef0f22295e5043d54f06a1-audit.json",
+  "files": [
+    {
+      "date": 1685779143225,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-03-06-13-success.log",
+      "hash": "16f54ddaa4183cd888d2004946a8fc01d5c7a9ff51ff2208a685f220afdde1bb"
     },
-    "auditLog": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\.1e1ea1c889c6976cb1ef0f22295e5043d54f06a1-audit.json",
-    "files": [
-        {
-            "date": 1685779143225,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-03-06-13-success.log",
-            "hash": "16f54ddaa4183cd888d2004946a8fc01d5c7a9ff51ff2208a685f220afdde1bb"
-        },
-        {
-            "date": 1685779297425,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-03-06-14-success.log",
-            "hash": "e5c48fc5aa8e8c2825e64178b24b671eac90991fc1bf35faf0f6cf9412dab44d"
-        },
-        {
-            "date": 1685850572177,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-09-success.log",
-            "hash": "ca08b105e2d8fa5f73ef0fb6de8f18a5664f6e096e9b053b2744bd8f660a755a"
-        },
-        {
-            "date": 1685851454197,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-10-success.log",
-            "hash": "64e43f2e8a6a63522daa685d0221f92b2098f1576ae96458ca567162987226a7"
-        },
-        {
-            "date": 1685855363975,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-11-success.log",
-            "hash": "4a55ee30a436b26cea66b13209a57424924ac579e1d0ee0cc54fcd9034749ecc"
-        },
-        {
-            "date": 1685858577123,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-12-success.log",
-            "hash": "c3ea34757616bd57726c2e9a46a91677e7d0e0fa3bbf19efd504a4c02fa647e9"
-        },
-        {
-            "date": 1685862071524,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-13-success.log",
-            "hash": "7d167fb6889813066fc3abdaab87301576d24e2a77d0c5477451a544b5494522"
-        },
-        {
-            "date": 1685983359999,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-22-success.log",
-            "hash": "6bda46c07ef0b5075a490b163a51b402d62ae23db05ca909be972bc67565f423"
-        },
-        {
-            "date": 1686064707079,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-21-success.log",
-            "hash": "2cc034267e4afe21e161a4e9ef2c602025361debdc947aab2bc5feca8800618f"
-        },
-        {
-            "date": 1686073770876,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-23-success.log",
-            "hash": "7859ee6fd8e33986dfcbc975b426910d6c7b1b26bd39bbcac8ecf8fb6cbdf29a"
-        },
-        {
-            "date": 1686074956381,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-00-success.log",
-            "hash": "35a976bc49f499baad85913837a11ef94c144e4dcfe888070c9d469c2b6fef45"
-        },
-        {
-            "date": 1686234748299,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-20-success.log",
-            "hash": "5b29d11ce32ce6b0ceb1410419daa8d0f17766f60aae075da1b29caffd6d66f4"
-        },
-        {
-            "date": 1686242944293,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-22-success.log",
-            "hash": "eddb535245c90a2f329f3656ad98a0ddd9259a71c6ad5a7f077ff5bc84885930"
-        },
-        {
-            "date": 1686243986018,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-23-success.log",
-            "hash": "b66579ae14ef6b03b2c3898955f1bf2e76bb70be9ac3b9cb38b3c5dcdc3e48da"
-        },
-        {
-            "date": 1686247385716,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-00-success.log",
-            "hash": "6c13602c1bd6031a1a397c88ecc7b45dd79db16049a9b5fe12ae0bf9e7a0c9c7"
-        },
-        {
-            "date": 1686667963908,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-13-06-20-success.log",
-            "hash": "9e0ee75e5f2c1f5ce0d029463fb14fadaeec8e771e280fd9bf4100e6f8a7b432"
-        },
-        {
-            "date": 1686671738219,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-13-06-21-success.log",
-            "hash": "9d7788e547b4f4433185e579dc175c2afdeced19493e8a5a7b856406dc0adf89"
-        },
-        {
-            "date": 1686840794642,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-20-success.log",
-            "hash": "7cbac066ae80208bc93858e452e8962a1c00a90576a04b389c006d58d7ff2252"
-        },
-        {
-            "date": 1686841329907,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-21-success.log",
-            "hash": "b3cdd67d78568a56087623cc0b99171d283969acaa50091a2f1babf14ca29a1e"
-        },
-        {
-            "date": 1686844982510,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-22-success.log",
-            "hash": "cfd45648fb747993c578d6442908527354dc2e1ae0284b5d4b095f466ffa0bf1"
-        },
-        {
-            "date": 1686851302693,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-23-success.log",
-            "hash": "4aaccbbca97ae3cc76774a2057ba1f0b98a0ee9e794812bce9c7f9058d5ae76a"
-        },
-        {
-            "date": 1686852023585,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-00-success.log",
-            "hash": "f540d0b9728b08f69df9753315cdf78a3fb0d3f64b9e139881c9f8b27a724757"
-        },
-        {
-            "date": 1686856064644,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-01-success.log",
-            "hash": "e6d7159451b8b0576e915adec0e82b891144c1489c234c969ce147ccd428962b"
-        },
-        {
-            "date": 1686924429570,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-20-success.log",
-            "hash": "b82ce5cffed7f4d2e3f78bb849913cfff1cc48e2616971f2646f767dbe2901c4"
-        },
-        {
-            "date": 1686942691346,
-            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-01-success.log",
-            "hash": "8d2c55fc93b276971354184b5dd9a844549aa5f4aa0ead691fa5127318c60332"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1685779297425,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-03-06-14-success.log",
+      "hash": "e5c48fc5aa8e8c2825e64178b24b671eac90991fc1bf35faf0f6cf9412dab44d"
+    },
+    {
+      "date": 1685850572177,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-09-success.log",
+      "hash": "ca08b105e2d8fa5f73ef0fb6de8f18a5664f6e096e9b053b2744bd8f660a755a"
+    },
+    {
+      "date": 1685851454197,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-10-success.log",
+      "hash": "64e43f2e8a6a63522daa685d0221f92b2098f1576ae96458ca567162987226a7"
+    },
+    {
+      "date": 1685855363975,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-11-success.log",
+      "hash": "4a55ee30a436b26cea66b13209a57424924ac579e1d0ee0cc54fcd9034749ecc"
+    },
+    {
+      "date": 1685858577123,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-12-success.log",
+      "hash": "c3ea34757616bd57726c2e9a46a91677e7d0e0fa3bbf19efd504a4c02fa647e9"
+    },
+    {
+      "date": 1685862071524,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-13-success.log",
+      "hash": "7d167fb6889813066fc3abdaab87301576d24e2a77d0c5477451a544b5494522"
+    },
+    {
+      "date": 1685983359999,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-22-success.log",
+      "hash": "6bda46c07ef0b5075a490b163a51b402d62ae23db05ca909be972bc67565f423"
+    },
+    {
+      "date": 1686064707079,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-21-success.log",
+      "hash": "2cc034267e4afe21e161a4e9ef2c602025361debdc947aab2bc5feca8800618f"
+    },
+    {
+      "date": 1686073770876,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-23-success.log",
+      "hash": "7859ee6fd8e33986dfcbc975b426910d6c7b1b26bd39bbcac8ecf8fb6cbdf29a"
+    },
+    {
+      "date": 1686074956381,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-00-success.log",
+      "hash": "35a976bc49f499baad85913837a11ef94c144e4dcfe888070c9d469c2b6fef45"
+    },
+    {
+      "date": 1686234748299,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-20-success.log",
+      "hash": "5b29d11ce32ce6b0ceb1410419daa8d0f17766f60aae075da1b29caffd6d66f4"
+    },
+    {
+      "date": 1686242944293,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-22-success.log",
+      "hash": "eddb535245c90a2f329f3656ad98a0ddd9259a71c6ad5a7f077ff5bc84885930"
+    },
+    {
+      "date": 1686243986018,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-23-success.log",
+      "hash": "b66579ae14ef6b03b2c3898955f1bf2e76bb70be9ac3b9cb38b3c5dcdc3e48da"
+    },
+    {
+      "date": 1686247385716,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-00-success.log",
+      "hash": "6c13602c1bd6031a1a397c88ecc7b45dd79db16049a9b5fe12ae0bf9e7a0c9c7"
+    },
+    {
+      "date": 1686667963908,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-13-06-20-success.log",
+      "hash": "9e0ee75e5f2c1f5ce0d029463fb14fadaeec8e771e280fd9bf4100e6f8a7b432"
+    },
+    {
+      "date": 1686671738219,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-13-06-21-success.log",
+      "hash": "9d7788e547b4f4433185e579dc175c2afdeced19493e8a5a7b856406dc0adf89"
+    },
+    {
+      "date": 1686840794642,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-20-success.log",
+      "hash": "7cbac066ae80208bc93858e452e8962a1c00a90576a04b389c006d58d7ff2252"
+    },
+    {
+      "date": 1686841329907,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-21-success.log",
+      "hash": "b3cdd67d78568a56087623cc0b99171d283969acaa50091a2f1babf14ca29a1e"
+    },
+    {
+      "date": 1686844982510,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-22-success.log",
+      "hash": "cfd45648fb747993c578d6442908527354dc2e1ae0284b5d4b095f466ffa0bf1"
+    },
+    {
+      "date": 1686851302693,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-23-success.log",
+      "hash": "4aaccbbca97ae3cc76774a2057ba1f0b98a0ee9e794812bce9c7f9058d5ae76a"
+    },
+    {
+      "date": 1686852023585,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-00-success.log",
+      "hash": "f540d0b9728b08f69df9753315cdf78a3fb0d3f64b9e139881c9f8b27a724757"
+    },
+    {
+      "date": 1686856064644,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-01-success.log",
+      "hash": "e6d7159451b8b0576e915adec0e82b891144c1489c234c969ce147ccd428962b"
+    },
+    {
+      "date": 1686924429570,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-20-success.log",
+      "hash": "b82ce5cffed7f4d2e3f78bb849913cfff1cc48e2616971f2646f767dbe2901c4"
+    },
+    {
+      "date": 1686942691346,
+      "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\Mongoose\\University-management\\University-management\\University-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-01-success.log",
+      "hash": "8d2c55fc93b276971354184b5dd9a844549aa5f4aa0ead691fa5127318c60332"
+    }
+  ],
+  "hashType": "sha256"
 }
