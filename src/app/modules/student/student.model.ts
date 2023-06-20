@@ -141,8 +141,4 @@ export const StudentSchema = new Schema<IStudent, StudentModel>(
   }
 );
 
-// StudentSchema.index({
-//   bloodGroup: 1,
-// });
-
 export const Student = model<IStudent, StudentModel>('Student', StudentSchema);
